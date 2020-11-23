@@ -123,5 +123,5 @@ fun numberRevert(number: Int): Int {
         revert = revert * 10 + r
         number /= 10
     }
-    return revert
+    return revert// nice! Өзің шығардың ба, әлде бір жерден қарадың ба?
 }
